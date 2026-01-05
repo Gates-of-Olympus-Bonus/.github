@@ -19,6 +19,8 @@
 <a href="#"><img src="https://img.shields.io/badge/category-Game_Analysis-orange?style=flat" alt="category"/></a>
 <a href="#"><img src="https://img.shields.io/badge/format-Documentation-lightgrey?style=flat" alt="format"/></a>
 
+<br><br>
+
 <img src="https://igamingafrika.com/wp-content/uploads/2023/09/Home-9-min.jpg" width="824" alt="Screenshot"/>
 
 </div>
